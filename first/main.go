@@ -1,5 +1,5 @@
 package first
 
-func GetVersion() String{
+func GetVersion() string{
 	return "1"
 }
